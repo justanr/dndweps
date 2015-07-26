@@ -1,0 +1,502 @@
+[
+  {
+    "suffix": "of the Acolyte",
+    "prefix": "Acolyte's",
+    "property": "The bearer gains a +1 bonus to Wisdom (Religion) checks."
+  },
+  {
+    "suffix": "of Adamantine",
+    "prefix": "Adamantine",
+    "property": "The item is indestructible."
+  },
+  {
+    "suffix": "of the Intellect",
+    "prefix": "Adroit",
+    "property": "The bearer gains +1 bonus to Intelligence saving throws."
+  },
+  {
+    "suffix": "of the North",
+    "prefix": "Arctic",
+    "property": "The bearer suffers no harm in temperature as cold as -20 degrees Fahrenheit."
+  },
+  {
+    "suffix": "of Amethyst",
+    "prefix": "Amethyst",
+    "property": "Grants psychic resistance to the bearer."
+  },
+  {
+    "suffix": "of Arcadia",
+    "prefix": "Arcadian",
+    "property": "Treat as a +1 weapon when attacking Demons and Devils."
+  },
+  {
+    "suffix": "of Safety",
+    "prefix": "Arresting",
+    "property": "Once per day, the bearer may use their reaction to gain Safe Fall 10 until the end of turn."
+  },
+  {
+    "suffix": "of the Assassin",
+    "prefix": "Assassin's",
+    "property": "Adds your proficiency bonus on damage dealt during surprise rounds."
+  },
+  {
+    "suffix": "of the Barbarian",
+    "prefix": "Barbarian's",
+    "property": "The bearer gains a +1 bonus to Strength (Athletics) checks."
+  },
+  {
+    "suffix": "of Barbs",
+    "prefix": "Barbed",
+    "property": "After an attack roll, the bearer may add 1d4 to the damage roll.  If so, the bearer takes 1d4 damage."
+  },
+  {
+    "suffix": "of Binding",
+    "prefix": "Binding",
+    "property": "When you hit a creature with this weapon, it slows its speed by 5 feet until the end of its next turn."
+  },
+  {
+    "suffix": "of Blessings",
+    "prefix": "Blessed",
+    "property": "Whenever bearer of this item receives divine healing, they gain an additional 1d4 hit points."
+  },
+  {
+    "suffix": "of Bloodthirst",
+    "prefix": "Bloodthirsty",
+    "property": "The bearer of this weapon can expend a hit die to turn this weapon into a +1 weapon for 1d4 turns."
+  },
+  {
+    "suffix": "of Thunder",
+    "prefix": "Booming",
+    "property": "Replace the damage type of this weapon with Thunder, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of the Burglar",
+    "prefix": "Burglar's",
+    "property": "The bearer gains +1 to Dexterity (Sleight of Hand) checks."
+  },
+  {
+    "suffix": "of Chance",
+    "prefix": "Capricious",
+    "property": "Treat this as a +1 weapon if it is attuned to a Chaotic aligned character and the attack roll was an even number."
+  },
+  {
+    "suffix": "of Direction",
+    "prefix": "Cardinal",
+    "property": "The wielder can use an action to learn which way is north."
+  },
+  {
+    "suffix": "of Corrosion",
+    "prefix": "Caustic",
+    "property": "Replace the damage type of this weapon with Acid, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Cleaving",
+    "prefix": "Cleaving",
+    "property": "The bearer may choose to do slashing damage with this weapon instead of its other damage types."
+  },
+  {
+    "suffix": "of Channelling",
+    "prefix": "Channelling",
+    "property": "Once per day, the bearer may ignore the Verbal and/or Somatic components of a spell they are casting."
+  },
+  {
+    "suffix": "of Lightning",
+    "prefix": "Charged",
+    "property": "Replace the damage type of this weapon with Lightning, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Consecration",
+    "prefix": "Consecrated",
+    "property": "Treat as a +1 weapon when attacking Undead."
+  },
+  {
+    "suffix": "of Cruelty",
+    "prefix": "Cruel",
+    "property": "The bearer may re-roll damage from critical hits scored with this weapon and take the second result."
+  },
+  {
+    "suffix": "of the Brute",
+    "prefix": "Crushing",
+    "property": "The bearer may choose to do bludgeoning damage with this weapon instead of its other damage types."
+  },
+  {
+    "suffix": "of the Dancer",
+    "prefix": "Dancer's",
+    "property": "The bearer gains a +1 bonus to Dexterity (Acrobatics) checks."
+  },
+  {
+    "suffix": "of Darkness",
+    "prefix": "Dark",
+    "property": "Replace the damage type of this weapon with Necrotic, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Defence",
+    "prefix": "Defensive",
+    "property": "Whenever the bearer takes a dodge action, they may move an additional 5 feet."
+  },
+  {
+    "suffix": "of Draining",
+    "prefix": "Draining",
+    "property": "When the bearer makes a successful attack, they gain 10% of the damage as temporary hit points (round down, minimum of 1)."
+  },
+  {
+    "suffix": "of the Druid",
+    "prefix": "Druid's",
+    "property": "The bearer gains a +1 bonus to Intelligence (Nature) checks."
+  },
+  {
+    "suffix": "of the Delver",
+    "prefix": "Delver's",
+    "property": "While underground, the bearer of this item always knows the item's depth below the surface and the direction to the nearest staircase, ramp, or other path leading upward."
+  },
+  {
+    "suffix": "of the Dynamo",
+    "prefix": "Dynamic",
+    "property": "The bearer has +1 to Charisma saving throws."
+  },
+  {
+    "suffix": "of Light",
+    "prefix": "Effulgent",
+    "property": "This item can cast the Light cantrip on itself at will."
+  },
+  {
+    "suffix": "of Balance",
+    "prefix": "Equanimous",
+    "property": "This weapon has a +1 attack bonus during the day and a +1 damage bonus at night when attuned to neutral aligned characters"
+  },
+  {
+    "suffix": "of the Favored",
+    "prefix": "Favored",
+    "property": "Once per day, the bearer may roll a saving throw with advantage."
+  },
+  {
+    "suffix": "of the Sea",
+    "prefix": "Waterborne",
+    "property": "The item floats on water or other liquids.  Its bearer has advantage on Strength (Athletics) checks to swim."
+  },
+  {
+    "suffix": "of the Fair-weather",
+    "prefix": "Fair-weather",
+    "property": "Treat this as a +1 weapon if the bearer has more than half of their maximum hit points"
+  },
+  {
+    "suffix": "of Falsehoods",
+    "prefix": "False",
+    "property": "The bearer gains a +1 bonus to Charisma (Deception) checks."
+  },
+  {
+    "suffix": "of Flanking",
+    "prefix": "Flanking",
+    "property": "Treat as a +1 weapon if an ally is adjacent to the enemy you are attacking."
+  },
+  {
+    "suffix": "of the Forgotten",
+    "prefix": "Forgotten",
+    "property": "The bearer may spend an action to attempt to ignite the old magic in this weapon with a DC 13 Charisma check.  If successful, treat the weapon as a +1 weapon as long as the bearer maintains concentration on this effect, maximum 10 minutes."
+  },
+  {
+    "suffix": "of Ice",
+    "prefix": "Frozen",
+    "property": "Replace the damage type of this weapon with Cold, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Fury",
+    "prefix": "Furious",
+    "property": "Treat as a +1 weapon when the bearer is raging."
+  },
+  {
+    "suffix": "of Garnet",
+    "prefix": "Garnet",
+    "property": "Grants fire resistance to the bearer."
+  },
+  {
+    "suffix": "of Glory",
+    "prefix": "Glorious",
+    "property": "The damage type of weapon is changed to Radiant, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Coercion",
+    "prefix": "Grim",
+    "property": "The bearer of this weapon has advantage on Charisma (Intimidation) checks if the target can see the weapon."
+  },
+  {
+    "suffix": "of Harmony",
+    "prefix": "Harmonious",
+    "property": "Attuning to this item takes only 1 minute."
+  },
+  {
+    "suffix": "of Heroes",
+    "prefix": "Heroic",
+    "property": "The bearer has advantage on saving throws vs. fear."
+  },
+  {
+    "suffix": "of Histrionics",
+    "prefix": "Histrionic",
+    "property": "the bearer gains +1 to Charisma (Performance) checks."
+  },
+  {
+    "suffix": "of the Inquisitor",
+    "prefix": "Inquisitor's",
+    "property": "The bearer gains a +1 bonus to Intelligence (Investigation) checks."
+  },
+  {
+    "suffix": "of Inspiration",
+    "prefix": "Inspired",
+    "property": "The bearer regains their Constitution modifier in temporary hit points whenever they gain or use inspiration."
+  },
+  {
+    "suffix": "of Teeth",
+    "prefix": "Jagged",
+    "property": "Once hit by this weapon, the victim cannot regain hit points until the beginning of their next turn."
+  },
+  {
+    "suffix": "of Faith",
+    "prefix": "Holy",
+    "property": "When the bearer of this item rolls hit dice, they can choose to re-roll them and take the second result."
+  },
+  {
+    "suffix": "of Storms",
+    "prefix": "Cerulean",
+    "property": "Grants lightning resistance to the bearer."
+  },
+  {
+    "suffix": "of Persuasiveness",
+    "prefix": "Loquacious",
+    "property": "The bearer gains +1 to Charisma (Persuasion) checks."
+  },
+  {
+    "suffix": "of Unity",
+    "prefix": "United",
+    "property": "Whenever the bearer of this weapon takes an aid action in combat, their target may treat their weapon as a +1 weapon until the end of their next turn."
+  },
+  {
+    "suffix": "of the Mage Killer",
+    "prefix": "Mage Killer's",
+    "property": "Ignores the AC bonuses given by spells such as Mage Armor and Shield."
+  },
+  {
+    "suffix": "of Malachite",
+    "prefix": "Malachite",
+    "property": "Grants poison resistance to the bearer."
+  },
+  {
+    "suffix": "of Maligning",
+    "prefix": "Maligning",
+    "property": "The bearer does an additional 1d4 damage on opportunity attacks."
+  },
+  {
+    "suffix": "of the Mind's Eye",
+    "prefix": "Mind's Eye",
+    "property": "Replace the damage type of this weapon with Psychic, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Mindfulness",
+    "prefix": "Mindful",
+    "property": "The bearer gains a +1 bonus to Wisdom saving throws."
+  },
+  {
+    "suffix": "of Muting",
+    "prefix": "Muting",
+    "property": "Attacks made with this weapon are completely silent, and any targets hit cannot cry out from pain until the start of their next turn."
+  },
+  {
+    "suffix": "of Agility",
+    "prefix": "Nimble",
+    "property": "The bearer gains a +1 bonus to Dexterity saving throws."
+  },
+  {
+    "suffix": "of Obsidian",
+    "prefix": "Obsidian",
+    "property": "Grants acid resistance to the bearer."
+  },
+  {
+    "suffix": "of Opal",
+    "prefix": "Opal",
+    "property": "Grants cold resistance to the bearer."
+  },
+  {
+    "suffix": "of the Preacher",
+    "prefix": "Preacher's",
+    "property": "The bearer may extend the range of their Channel Divinity by 5 feet."
+  },
+  {
+    "suffix": "of Repulsion",
+    "prefix": "Pulsing",
+    "property": "Replace the damage type of this weapon with Force, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of the Snake",
+    "prefix": "Pernicious",
+    "property": "Replace the damage type of this weapon with Poison, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Speed",
+    "prefix": "First",
+    "property": "The bearer gain a +1 bonus to initiative rolls"
+  },
+  {
+    "suffix": "of the Reaper",
+    "prefix": "Reaper's",
+    "property": "The bearer has advantage on death saving throws."
+  },
+  {
+    "suffix": "of the Renaissance",
+    "prefix": "Renaissance",
+    "property": "Once per day, the bearer may gain +1 to any skill check."
+  },
+  {
+    "suffix": "of Resonance",
+    "prefix": "Resonant",
+    "property": "The bearer can spend 1 ki point to treat this as a +1 weapon for 1 minute."
+  },
+  {
+    "suffix": "of Righteousness",
+    "prefix": "Righteous",
+    "property": "Treat this as a +1 weapon during the day when attuned to a good aligned character."
+  },
+  {
+    "suffix": "of Runes",
+    "prefix": "Runic",
+    "property": "Whenever bearer casts a spell, treat this weapon as a +1 weapon until the beginning of their next turn."
+  },
+  {
+    "suffix": "of the Sacred",
+    "prefix": "Sacred",
+    "property": "The bearer may increase their Lay on Hands hit point pool by 5."
+  },
+  {
+    "suffix": "of Acumen",
+    "prefix": "Sagacious",
+    "property": "The bearer gains +1 to Wisdom (Insight) checks."
+  },
+  {
+    "suffix": "of the Sage",
+    "prefix": "Sage's",
+    "property": "The bearer gains a +1 bonus to Intelligence (History) checks."
+  },
+  {
+    "suffix": "of the Sentinel",
+    "prefix": "Sentinel",
+    "property": "Faintly glows when creatures of a certain race (DMs choice) are within a 100 foot radius."
+  },
+  {
+    "suffix": "of Shade",
+    "prefix": "Shading",
+    "property": "The bearer suffers no harm in temperatures as high as 120 degrees Fahrenheit."
+  },
+  {
+    "suffix": "of the Shepherd",
+    "prefix": "Shepherd's",
+    "property": "The bearer gains a +1 bonus to (Wisdom) Animal Handling checks."
+  },
+  {
+    "suffix": "of Shifting",
+    "prefix": "Shifting",
+    "property": "The bearer may change minor aspects of the physical appearance of this item."
+  },
+  {
+    "suffix": "of the Night",
+    "prefix": "Silent",
+    "property": "The bearer gains a +1 bonus to Dexterity (Stealth) checks."
+  },
+  {
+    "suffix": "of Flame",
+    "prefix": "Smoldering",
+    "property": "Replace the damage type of this weapon with Fire, and its damage roll gains a +1 bonus."
+  },
+  {
+    "suffix": "of Solemnity",
+    "prefix": "Solemn",
+    "property": "The bearer may spend an action removing all the failed death saving throws from a target within 5 feet of them.  The target is still not stabilized."
+  },
+  {
+    "suffix": "of the Surgeon",
+    "prefix": "Surgeon's",
+    "property": "The bearer gains a +1 bonus to Wisdom (Medicine) checks."
+  },
+  {
+    "suffix": "of the Tenacious",
+    "prefix": "Tenacious",
+    "property": "When the bearer takes a long rest, they gain back one additional hit die."
+  },
+  {
+    "suffix": "of the Tracker",
+    "prefix": "Tracker's",
+    "property": "The bearer gains a +1 to Wisdom (Survival) checks."
+  },
+  {
+    "suffix": "of Stabbing",
+    "prefix": "Trenchant",
+    "property": "The bearer may choose to do piercing damage with this weapon instead of its other damage types."
+  },
+  {
+    "suffix": "of Resurgence",
+    "prefix": "Trusty",
+    "property": "Treat this as a +1 weapon if the bearer has half their maximum hit points or less."
+  },
+  {
+    "suffix": "of Turquoise",
+    "prefix": "Turquoise",
+    "property": "Grants thunder resistance to the bearer."
+  },
+  {
+    "suffix": "of Heart",
+    "prefix": "Unbroken",
+    "property": "The bearer gains a +1 bonus to Constitution saving throws."
+  },
+  {
+    "suffix": "of Victory",
+    "prefix": "Victorious",
+    "property": "Whenever the bearer kills a creature with this weapon, they gain temporary hit points equal to the creature's CR."
+  },
+  {
+    "suffix": "of Vigilance",
+    "prefix": "Vigilant",
+    "property": "The bearer gains +2 to their Passive Perception."
+  },
+  {
+    "suffix": "of Vigor",
+    "prefix": "Vigorous",
+    "property": "The bearer gains a +1 bonus to Strength saving throws."
+  },
+  {
+    "suffix": "of Villains",
+    "prefix": "Vile",
+    "property": "Treat this as a +1 weapon at night when attuned to an evil aligned character."
+  },
+  {
+    "suffix": "of the Visionary",
+    "prefix": "Visionary",
+    "property": "The weapon does an additional 1 elemental damage based on the color of the bearer's eyes: (amber: lightning, black: necrotic, blue: cold, brown: acid, green: force, gray: thunder, hazel: poison, purple: psychic, red: fire, white: radiant)"
+  },
+  {
+    "suffix": "of Vitality",
+    "prefix": "Vital",
+    "property": "The bearer's maximum hit points increases by their constitution modifier while attuned to this item.  These hitpoints are lost when the bearer unattunes the item."
+  },
+  {
+    "suffix": "of the War Leader",
+    "prefix": "War Leader's",
+    "property": "The bearer can use an action to amplify their voice so that it clearly carries for up to 300 feet."
+  },
+  {
+    "suffix": "of Withering",
+    "prefix": "Withering",
+    "property": "If hit with this weapon, the target makes a DC 13 constitution saving throw.  If they fail, their Strength stat is reduced by 1."
+  },
+  {
+    "suffix": "of the Wizard",
+    "prefix": "Wizard's",
+    "property": "The bearer gains a +1 to Intelligence (Arcana) checks."
+  },
+  {
+    "suffix": "of Zen",
+    "prefix": "Zen",
+    "property": "Treat this as a +1 weapon for one minute after meditating with it for one minute."
+  },
+  {
+    "suffix": "of Zircon",
+    "prefix": "Zircon",
+    "property": "Grants force resistance to the bearer."
+  }
+]

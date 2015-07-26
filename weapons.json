@@ -1,0 +1,150 @@
+[
+  {
+    "attributes": "1d4 bludgeoning; light",
+    "name": "club"
+  },
+  {
+    "attributes": "1d4 piercing; finesse, light, thrown(range20/60)",
+    "name": "dagger"
+  },
+  {
+    "attributes": "1d8 bludgeoning; two handed",
+    "name": "greatclub"
+  },
+  {
+    "attributes": "1d6 slashing; light thrown(range 20/60)",
+    "name": "handaxe"
+  },
+  {
+    "attributes": "1d6 piercing; thrown(range 30/120)",
+    "name": "javelin"
+  },
+  {
+    "attributes": "1d4 bludgeoning; light, thrown(20/60)",
+    "name": "light hammer"
+  },
+  {
+    "attributes": "1d6 bludgeoning; ",
+    "name": "mace"
+  },
+  {
+    "attributes": "1d6 bludgeoning; versatile(1d8)",
+    "name": "quarterstaff"
+  },
+  {
+    "attributes": "1d4 slashing; light",
+    "name": "sickle"
+  },
+  {
+    "attributes": "1d6 piercing; thrown(range 20/60), versatile(1d8)",
+    "name": "spear"
+  },
+  {
+    "attributes": "1d8 piercing; ammunition (range 80/320), loading, two-handed",
+    "name": "light crossbow"
+  },
+  {
+    "attributes": "1d4 piercing; finesse, thrown(range 20/60)",
+    "name": "dart"
+  },
+  {
+    "attributes": "1d6 piercing; ammunition(range 80/320), two-handed",
+    "name": "shortbow"
+  },
+  {
+    "attributes": "1d4 bludgeoning; ammunition(range 30/120)",
+    "name": "sling"
+  },
+  {
+    "attributes": "1d8 slashing; versatile(1d10)",
+    "name": "battleaxe"
+  },
+  {
+    "attributes": "1d8 bludgeoning; ",
+    "name": "flail"
+  },
+  {
+    "attributes": "1d0 slashing; heavy, reach, two-handed",
+    "name": "glaive"
+  },
+  {
+    "attributes": "1d12 slashing; heavy, two-handed",
+    "name": "greataxe"
+  },
+  {
+    "attributes": "2d6 slashing; heavy, two-handed",
+    "name": "greatsword"
+  },
+  {
+    "attributes": "1d0 slashing; heavy, reach, two-handed",
+    "name": "halberd"
+  },
+  {
+    "attributes": "1d12 piercing; reach, special",
+    "name": "lance"
+  },
+  {
+    "attributes": "1d8 slashing; versatile(1d10)",
+    "name": "longsword"
+  },
+  {
+    "attributes": "2d6 bludgeoning; heavy, two-handed",
+    "name": "maul"
+  },
+  {
+    "attributes": "1d8 piercing; ",
+    "name": "morningstar"
+  },
+  {
+    "attributes": "1d10 piercing; heavy, reach, two-handed",
+    "name": "pike"
+  },
+  {
+    "attributes": "1d8 piercing; finesse",
+    "name": "rapier"
+  },
+  {
+    "attributes": "1d6 slashing; finesse, light",
+    "name": "scimitar"
+  },
+  {
+    "attributes": "1d6 piercing; finesse, light",
+    "name": "shortsword"
+  },
+  {
+    "attributes": "1d6 piercing; thrown(range 20/60), versatile(1d8)",
+    "name": "trident"
+  },
+  {
+    "attributes": "1d8 piercing; ",
+    "name": "war pike"
+  },
+  {
+    "attributes": "1d8 bludgeoning; versatile(1d10)",
+    "name": "warhammer"
+  },
+  {
+    "attributes": "1d4 slashing; finesse, reach",
+    "name": "whip"
+  },
+  {
+    "attributes": "1 piercing; ammunition(range 25/100), loading",
+    "name": "blowgun"
+  },
+  {
+    "attributes": "1d6 piercing; ammunition(range 30/120), light loading",
+    "name": "hand crossbow"
+  },
+  {
+    "attributes": "1d10 piercing; ammunition(range 100/400), heavy, loading, two-handed",
+    "name": "heavy crossbow"
+  },
+  {
+    "attributes": "1d8 piercing; ammunition(range 150/600), heavy, two-handed",
+    "name": "longbow"
+  },
+  {
+    "attributes": "special, thrown(range 5/15)",
+    "name": "net"
+  }
+]
